@@ -70,7 +70,6 @@ This heatmap visualizes the correlations between different features in the ICO d
 - 'teamSize' shows a weak positive correlation with 'success', indicating that larger teams might slightly increase the chances of ICO success.
 
 ### 2. ROC Curve for Different Classifiers
-<img width="570" alt="Screenshot 2024-08-06 at 6 25 40 AM" src="https://github.com/user-attachments/assets/58c576a0-f009-472e-91ca-3be9d4106d7d">
 
 <div align="center">
     <img width="570" alt="Screenshot 2024-08-06 at 6 25 40 AM" src="https://github.com/user-attachments/assets/58c576a0-f009-472e-91ca-3be9d4106d7d">
